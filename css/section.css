@@ -24,7 +24,7 @@
   transition: 0.1s;
 }
 
-.section__button:hover, {
+.section__button:hover {
   background-color: hsl(0, 0%, 75%);
 }
 
