@@ -35,8 +35,6 @@
 
 .section__paragraph--link {
   text-decoration: none;
-  color: hsl(0, 0%, 83%);
-  padding: 15px;
-  font-size: 20px;
+  color: hsl(0, 0%, 100%);
   text-align: center;
 }
