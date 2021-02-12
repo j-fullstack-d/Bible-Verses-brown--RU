@@ -2,6 +2,11 @@
   padding: 15px;
 }
 
+.section__content--text {
+  font-size: 20px;
+  text-align: left;
+}
+
 .section--h1 {
   text-align: center;
 }
@@ -33,7 +38,7 @@
   text-decoration: none;
 }
 
-.section__paragraph--link {
+.section--link {
   text-decoration: none;
   color: hsl(0, 0%, 100%);
   text-align: center;
